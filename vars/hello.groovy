@@ -1,3 +1,3 @@
-function call(){
+def call(){
   echo "hello credentials"
 }
